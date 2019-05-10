@@ -1,0 +1,1 @@
+Funciones matematicas con JavaScrit, mini jueguito ... con platzi
