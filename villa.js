@@ -1,4 +1,4 @@
-var z = aletorio(10, 20);
+var z = aleatorio(10, 20);
 document.write(z);
 
 function aleatorio(min, max)
